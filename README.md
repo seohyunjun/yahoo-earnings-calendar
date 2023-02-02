@@ -1,4 +1,4 @@
-# Origin Repo is [wenboyu2](https://pypi.org/user/wenboyu2/)
+# Origin Repo [wenboyu2](https://pypi.org/user/wenboyu2/)
 
 # Yahoo! Earnings Calendar Scraper
 Scrapes Yahoo! Finance earnings calendar to get data for a specific date or a date range.
