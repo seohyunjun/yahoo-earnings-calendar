@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+urllib3 = ">=1.24.2"
+
+[dev-packages]
+mamba = "*"
+expects = "*"
+mockito = "*"
+coverage = "*"
+codecov = "*"
+"autopep8" = "*"
+pylint = "*"
+
+[requires]
+python_version = "3.7"
