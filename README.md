@@ -7,7 +7,11 @@ Scrapes Yahoo! Finance earnings calendar to get data for a specific date or a da
 ## Installation
 ### Pip
 ```sh
-git clone 
+git clone https://github.com/seohyunjun/yahoo-earnings-calendar
+```
+### require (yfinanace, requests)
+```
+pip install -r requirements.txt
 ```
 
 ## Usage
