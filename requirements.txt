@@ -1,2 +1,2 @@
 requests==2.20.1
-yfinance==0.2.9
+yfinance>=0.2.11 #still decrypt error 
